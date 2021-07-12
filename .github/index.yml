@@ -1,0 +1,2 @@
+- name: ID Generator
+  uses: gubareve/snowflake-github-action@v1.2
